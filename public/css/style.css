@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+}
+
+.block{
+    background: lightblue;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px gray;
+    width:14em;
+    margin-bottom:20px;
+}
+
+.park-container{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
